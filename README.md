@@ -194,7 +194,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
 -->
 
 <details id=5 open>
-<summary><h2>Step 5: Apply suggested changes</h2></summary>
+<summary><h2>Una sugerencia</h2></summary>
 
 _Nicely done suggesting changes! :partying_face:_
 
